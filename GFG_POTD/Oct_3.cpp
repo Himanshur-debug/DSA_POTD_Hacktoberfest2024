@@ -1,3 +1,6 @@
+
+// question link: https://www.geeksforgeeks.org/problems/majority-vote/1
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
